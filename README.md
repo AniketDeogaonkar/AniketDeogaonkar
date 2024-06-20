@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Ecom Website**
 
-- 💬 Ask me about **Python, SQL, Angular, JS**
+- 💬 Ask me about **Python, SQL, Django, Angular, JS, TS**
 
 - 📫 How to reach me **aniketdeogaonkar@gmail.com**
 
