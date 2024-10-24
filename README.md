@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
-- 💬 Ask me about **Python, SQL, Django, Angular, JS, TS**
+- 💬 Ask me about **Python, SQL, Django, Angular, JS, TS, MachineLerning, DeepLearning, NLP, LLMs**
 
 - 📫 How to reach me **aniketdeogaonkar@gmail.com**
 
