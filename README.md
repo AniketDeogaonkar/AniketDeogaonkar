@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketdeogaonkar" alt="aniketdeogaonkar" /></a> </p>
 
-- 🔭 I’m currently working on **Ecom Website**
+- 🔭 I’m currently working on **Full Stack Project**
 
 - 💬 Ask me about **Python, SQL, Django, Angular, JS, TS**
 
