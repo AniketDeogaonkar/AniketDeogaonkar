@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aniketdeogaonkar" target="blank"><img align="center" src="Linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/aniket.deogaonkar" target="blank"><img align="center" src="Instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aniketdeogaonkar" target="blank"><img align="center" src="Hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aniketdeogaonkar" target="blank"><img align="center" src="Hackerank.svg" alt="HackerRank" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aniketdeogaonkar" target="blank"><img align="center" src="Leetcode.svg" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://monkeytype.com/profile/aniketdeogaonkar" target="blank"><img align="center" src="Monkeytype.svg" alt="MonkeyType" height="30" width="40" /></a>
 </p>
